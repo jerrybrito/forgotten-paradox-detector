@@ -1,0 +1,1 @@
+unlikely-void>=0.8.6
